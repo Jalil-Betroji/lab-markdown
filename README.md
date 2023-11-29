@@ -1,98 +1,88 @@
 # lab-markdown
-## Work to do: 
-Bienvenue dans le projet "Arbre des Compétences Projet" ! Cet exercice vous permettra de suivre vos compétences et leur amélioration au fil du temps en créant un arbre des compétences spécifique à vos projets de développement web. Une fois que vous avez créé votre arbre des compétences, votre tâche consiste à rédiger un bon fichier README décrivant les étapes de votre projet.
+## Travaile a faire: 
+Nous allons rédiger un CV comprenant nos informations personnelles et professionnelles.
 
-**Exercice**
-1. **Document Your Skills Tree Project :**
+### Critères de validation
 
-  - Create a Markdown file named SkillsTree.md.
-  - Use Markdown formatting techniques to clearly present your skills tree.
-  - Explain each skill and its importance in the context of web development.
-2. **Write a README for Your Project :**
-
-  - Create a Markdown file named README.md.
-  - Follow the guidelines for writing a good README, such as clarity, well-defined sections, installation instructions, usage, contribution guidelines, licensing, images, and links.
-  - Describe the steps to create a skills tree project similar to yours.
-3. **Submit Your Project :**
-
-  - Create a folder named SkillsTreeProject in this repository.
-  - Add your SkillsTree.md and README.md files to this folder.
+- Ulisant li titre 
+- utilisant les list
+- utilusant image
+- utilisant les liens
 
 
-Feel free to explore the resources and exercises in this repository to enhance your Markdown skills.<br> Whether you are a beginner or an experienced developer, mastering Markdown will empower you to create clear and well-formatted documents for your projects.<br> Let's dive in and elevate your Markdown game!<br>
+## Références
 
-## Rules for Writing README.md:
-1. Clarity: Make sure your content is clear and easy to understand.
-2. Sections: Divide your document into sections for easy navigation.
-3. Installation: Include clear installation instructions.
-4. Usage: Explain how to use your project with examples if possible.
-5. Contributing: Clearly state how others can contribute to your project.
-6. License: Specify the license your project uses.
-7. Visuals: Use badges, screenshots, and diagrams to enhance understanding.
-8. Links: Provide links to important resources, documentation, and live demos.
-9. Formatting: Use formatting (like bold, italics, lists) for readability.
-10. Grammar and Spelling: Proofread your content to ensure there are no errors.
-## Markdown Styling Commands:
-1. Headers (`#`, `##`, `###`):
-```
-# Header 1
-## Header 2
-### Header 3
-```
-***Headers are used to create section titles. Use `#` for the main title, `##` for subsections, and so on.***
-2. Emphasis (Bold `**`, Italic `*`):
+- [GitHub markdown Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-```
-**Bold Text**
-*Italic Text*
-```
-***Use `**` for bold and `*` for italic. Wrap the text you want to emphasize with these symbols.***
-3. Lists (`-`, `1.`):
-
-```
-- Item 1
-- Item 2
-  - Subitem 2.1
-1. Ordered Item 1
-2. Ordered Item 2
-```
-Use `-` for unordered (bullet) lists and `1.` for ordered lists.
-4. Links (`[]``()`):
-```
-[Link Text](https://www.example.com)
-```
-
-5. Images (`![]``()`):
-```
-![Alt Text](image-url)
-```
-6. Code Blocks (`,` ` language`):
-```
-Use three backticks (```) for code blocks. Optionally, specify the programming language after the opening three backticks for syntax highlighting.
-
-```
-
-7. Tables (`|`):
-```
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1    | Row 1    |
-| Row 2    | Row 2    |
-```
-8. Quotes  (`>`):
-```
-> This is a quote.
-```
-9. Task Lists (`-` `[ ]`, `-` `[x]`):
-```
-- [x] Task 1
-- [ ] Task 2
-```
-
-10. Horizontal Line (`---`):
-```
 ---
-```
-Remember, a well-organized and well-formatted README.md not only helps users understand your project<br> better but also encourages collaboration and contributions.<br> Use these commands wisely to create an informative and visually appealing README.md file for your projects.
-# Author :
-[Jalil Betroji - Github Profile](https://github.com/Jalil-Betroji)
+
+# Jalil Betroji
+
+## Full Stack Développeur 
+
+![Profile Picture](img/profile.png)
+
+[LinkedIn](https://www.linkedin.com/in/jalil-betroji/) | [Twitter](https://twitter.com/JBetroji?t=3417xOWUeNkE_yETpzeGUg&s=09) | [GitHub](https://github.com/Jalil-Betroji)
+
+---
+
+## Résumé
+Etudiant de devlopment Web a SOLICODE Tanger, j'e suis Full-Stack développeur  sur différents Framework. Je suis actuellement à la recherche d'un stage
+
+---
+
+## Compétences Professionnels
+- **Programming Languages:** JavaScript (ES6+), Python, PHP
+- **Frontend:** HTML5, CSS3, React.js, Vue.js, Bootstrap
+- **Backend:** Node.js, Express, Django, Laravel
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Deployment:** Heroku, AWS, Docker
+- **Other Tools:** VS Code, Postman, npm, Yarn
+
+---
+
+## Experiences
+### 2021-2022 NFT Deployer 
+- Fiveer.com
+
+### 2021-2022 NFT formateur 
+- Instagram et google Meet
+
+### 2019 Digital marketeur 
+- Facebook , Instagram et Google
+
+### 2014-2018 Peindre et décorer les maisons 
+- Auto-Entrepreneur
+
+---
+
+## Formations
+### 08 2023 certificat d'une formation en entrepreneuriat et soft skills dispensée dans le cadre du programme Challengers
+- ISTA Ibn Marhal, Tanger.
+
+### 08 2023 Certificat de spécialisation (CS) de niveau 3 Développement Web
+- Solicode - OFPPT
+### 08 2023 Certificat de spécialisation (CS) de niveau 3 Développement Web 
+- Simplon.co
+### 2021 Formation professionnelle en informatique bureautique 
+- Gad Académie
+## 2020-2021 Blockchain Auto Formation  
+- YouTube , Udemy 
+### 06-2018 Baccalauréat Science de la vie et de la terre : 
+- Lycée Mohamed Abderrahmane zitane 
+
+---
+
+## Interests
+- Open-source contributions
+- Continuous learning and skill development
+- Technology trends and innovations
+
+---
+
+## Languages
+- **English:** Fluent
+- **French:** Conversational
+
+---
